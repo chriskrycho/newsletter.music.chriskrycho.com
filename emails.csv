@@ -1,0 +1,12 @@
+id,secondary_id,subject,publish_date,source,email_type,slug
+b45ecc55-fcc8-4fb1-b29d-b497011052ef,1,Welcome!,2024-03-22 19:27:19.334711+00:00,api,public,welcome
+87d4fd88-9bf0-450a-9bf9-67854e175b0a,2,🎼 March 2024,2024-03-28 13:35:00+00:00,api,public,march-2024
+af069e3d-3fd2-4ea6-8cc6-a091973970ac,3,🎼 April 2024: What is music?,2024-04-30 13:59:03.378149+00:00,api,public,april-2024-what-is-music
+fc79669b-8a08-4005-9dc0-a7c9cd6e0973,4,🎼 May 2024: Musical Development (…but not that kind),2024-06-01 02:38:00.126388+00:00,api,public,may-2024-musical-development-but-not-that-kind
+a81c1e36-31e1-4648-bcbc-51097a0788ae,5,🎼 June 2024: Revising!,2024-06-28 18:34:08.917604+00:00,api,public,june-2024-revising
+61e839be-ae89-4053-9f3d-01d71fbc0e20,6,🎼 July 2024: Respite,2024-08-01 03:22:47.458886+00:00,app,public,july-2024-respite
+6dadf5d0-5ca7-4ada-8bcc-4028194cc228,7,🎼 August 2024: Songwhip is Dead; Long Live… iTunes?,2024-08-26 01:09:42.220824+00:00,app,public,august-2024-songwhip-is-dead
+57a323fd-9252-4fad-b2f2-e16d795bc6c7,8,🎼 September 2024: Free Espresso,2024-10-01 03:49:43.533575+00:00,app,public,september-2024-free-espresso
+d9fa3d77-488b-48a2-bbe5-2d553461c7bc,9,🎼 October 2024: The Rhythm of the Work,2024-11-01 03:18:50.192094+00:00,app,public,october-2024-the-rhythm-of-the-work
+ba8847be-2a34-4ea4-b3d3-ae80e62f5f7c,10,"🎼 November 2024: A Symphony (Yes, That Kind)",2024-12-01 06:22:38.810605+00:00,app,public,november-2024-a-symphony-yes-that-kind
+78fc14c9-dc1c-4446-bb92-ff4df43e6e41,,🎼 December 2024: Wrapping the Year,,app,public,december-2024-wrapping-the-year
